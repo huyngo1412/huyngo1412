@@ -24,8 +24,8 @@
 . / Plugin tự động hóa quá trình chuyển dữ liệu kết cấu từ ETABS sang Revit, chuyển đổi toàn bộ mô hình kết cấu dầm, cột, sàn, vách nhằm mục đích tối ưu hóa quy trình làm việc giữa phân tích kết cấu và mô hình hóa BIM.
 - **Link / Liên kết:**- [ETABS to Revit Model Transfer](https://github.com/yourusername/etabs-to-revit)
 
-## 🌍 Connect with me / Kết nối với mình:
+## 🌍 Connect with me / Liên hệ với tôi:
 
-- [LinkedIn](#)
+- [LinkedIn](www.linkedin.com/in/huyngo14122002)
 
 ---
