@@ -9,7 +9,7 @@
 
 ## 🚀 Skills / Kỹ năng 
 
-- **BIM Software / Phần mềm BIM:** Autodesk Revit, AutoCAD
+- **BIM Software / Phần mềm BIM:** Autodesk Revit, AutoCAD, ETABS/ SAP2000
 - **Programming Languages / Ngôn ngữ lập trình:** Python, C#, Revit API, AutoCAD API, ETABS API
 ---
 ## 🛠 Project Overview / Tổng quan các dự án tham gia:
