@@ -1,4 +1,4 @@
-# 👋 Hello! / Xin chào! I'm Huy Ngo
+# 👋 Hello! / Chào mọi người! I'm Huy Ngo
 
 **A BIM Developer who combines knowledge of information technology and construction to optimize building projects. I focus on developing API plugins for various BIM software, facilitating efficient workflows, enhancing collaboration, and ensuring the accuracy of design and construction processes. / Nhà phát triển BIM kết hợp kiến thức công nghệ thông tin và xây dựng nhằm tối ưu hóa các dự án xây dựng. Tôi tập trung vào việc phát triển các plugin API cho các phần mềm BIM khác nhau, giúp quy trình làm việc trở nên hiệu quả, nâng cao sự hợp tác và đảm bảo độ chính xác trong thiết kế và thi công.**
 **
