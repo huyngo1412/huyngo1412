@@ -14,10 +14,10 @@
 ---
 ## 🛠 Project Overview / Tổng quan các dự án tham gia:
 
-### 🔧 Revit Steel Detailing Automation / Tự động hóa vẽ chi tiết thép trong Revit
+<!--### 🔧 Revit Steel Detailing Automation / Tự động hóa vẽ chi tiết thép trong Revit
 
 - **Description / Mô tả:**
-  This project involves creating a Revit plugin using the Revit API to automate the process of detailing steel reinforcement in structural elements. The goal is to improve productivity by reducing manual tasks involved in placing rebar in beams, columns, and slabs. /Phát triển một plugin cho Revit sử dụng Revit API để tự động hóa quá trình vẽ chi tiết thép trong các phần tử kết cấu. Mục tiêu là tăng năng suất bằng cách giảm thiểu các thao tác thủ công khi đặt thép trong dầm, cột và sàn.
+  This project involves creating a Revit plugin using the Revit API to automate the process of detailing steel reinforcement in structural elements. The goal is to improve productivity by reducing manual tasks involved in placing rebar in beams, columns, and slabs. /Phát triển một plugin cho Revit sử dụng Revit API để tự động hóa quá trình vẽ chi tiết thép trong các phần tử kết cấu. Mục tiêu là tăng năng suất bằng cách giảm thiểu các thao tác thủ công khi đặt thép trong dầm, cột và sàn. -->
 ### 🔧 ETABS to Revit Model Transfer / Chuyển đổi mô hình từ ETABS sang Revit
 - **Description / Mô tả:**
     This project involves developing a plugin that automates the transfer of structural data from ETABS to Revit, converting the entire structural model of beams, columns, slabs, and walls to optimize the workflow between structural analysis and BIM modeling.
