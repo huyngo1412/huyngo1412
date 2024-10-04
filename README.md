@@ -1,4 +1,4 @@
-# 👋 Hello! / Xin chào! I'm [Your Name]
+# 👋 Hello! / Xin chào! I'm Huy Ngo
 
 **A BIM Developer passionate about combining technology and construction to bring value to projects. / Nhà phát triển BIM với đam mê kết hợp công nghệ và xây dựng để mang lại giá trị vượt trội cho các dự án.**
 
@@ -10,7 +10,6 @@
 
 - **BIM Software / Phần mềm BIM:** Autodesk Revit, AutoCAD
 - **Programming Languages / Ngôn ngữ lập trình:** Python, C#, Revit API, AutoCAD API, ETABS API
-- 
 ---
 
 ## 🌍 Connect with me / Kết nối với mình:
