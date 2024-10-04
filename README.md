@@ -22,7 +22,7 @@
 - **Description / Mô tả:**
     This project involves developing a plugin that automates the transfer of structural data from ETABS to Revit, converting the entire structural model of beams, columns, slabs, and walls to optimize the workflow between structural analysis and BIM modeling.
 . / Plugin tự động hóa quá trình chuyển dữ liệu kết cấu từ ETABS sang Revit, chuyển đổi toàn bộ mô hình kết cấu dầm, cột, sàn, vách nhằm mục đích tối ưu hóa quy trình làm việc giữa phân tích kết cấu và mô hình hóa BIM.
-- **Link / Liên kết:**- [Project 1: ETABS to Revit Model Transfer](https://github.com/yourusername/etabs-to-revit)
+- **Link / Liên kết:**- [ETABS to Revit Model Transfer](https://github.com/yourusername/etabs-to-revit)
 
 ## 🌍 Connect with me / Kết nối với mình:
 
