@@ -26,6 +26,6 @@
 
 ## 🌍 Connect with me / Liên hệ với tôi:
 
-- [LinkedIn](www.linkedin.com/in/huyngo14122002)
+- [LinkedIn](https://www.linkedin.com/in/huyngo14122002/)
 
 ---
