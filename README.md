@@ -2,7 +2,7 @@
 
 <hr style="border: 0; height: 1px; background: #e5e7eb; width: 80%;">
 
-<h3 align="center">A .NET developer from VietNam</h3>
+<h3 align="center">a .NET developer from VietNam</h3>
 
 
 ## 💻 Languages and Tools
