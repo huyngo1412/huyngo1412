@@ -1,4 +1,9 @@
-# 👋 Hi! 
+<h1 align="center">Hi 👋, I'm Huy Ngo</h1>
+
+<hr style="border: 0; height: 1px; background: #e5e7eb; width: 80%;">
+
+<h3 align="center">A .NET developer from VietNam</h3>
+
 
 ## Languages and Tools
 
